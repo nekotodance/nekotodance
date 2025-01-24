@@ -1,5 +1,11 @@
-## Hi there 👋
-
+Hi 👋, I'm nekotodance
+- 👀 I’m interested in machine learning, program and 😸  
+- 🌱 I’m currently learning Python  
+- 📫 How to reach me: [Twitter](https://x.com/nekotodance7/ "Twitter")
+- 😽 Repositories  
+    <https://github.com/nekotodance/PromptViewer>  
+    <https://github.com/nekotodance/CompareViewer>  
+    <https://github.com/nekotodance/SdImageDiet>  
 <!--
 **nekotodance/nekotodance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
