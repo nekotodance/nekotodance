@@ -5,7 +5,8 @@ Hi 👋, I'm nekotodance
 - 😽 Repositories  
     <https://github.com/nekotodance/PromptViewer>  
     <https://github.com/nekotodance/CompareViewer>  
-    <https://github.com/nekotodance/SdImageDiet>  
+    <https://github.com/nekotodance/SdImageDiet>
+    etc...
 <!--
 **nekotodance/nekotodance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
