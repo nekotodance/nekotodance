@@ -4,8 +4,9 @@ Hi 👋, I'm nekotodance
 - 📫 How to reach me: [Twitter](https://x.com/nekotodance7/ "Twitter")
 - 😽 Repositories  
     <https://github.com/nekotodance/PromptViewer>  
-    <https://github.com/nekotodance/CompareViewer>  
     <https://github.com/nekotodance/SdImageDiet>  
+    <https://github.com/nekotodance/WebpAnim2Mp4>  
+    <https://github.com/nekotodance/CompareViewer>  
     etc...
 <!--
 **nekotodance/nekotodance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
