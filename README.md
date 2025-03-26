@@ -3,10 +3,10 @@ Hi 👋, I'm nekotodance
 - 🌱 I’m currently learning Python  
 - 📫 How to reach me: [Twitter](https://x.com/nekotodance7/ "Twitter")
 - 😽 Repositories  
-    <https://github.com/nekotodance/PromptViewer>  
-    <https://github.com/nekotodance/SdImageDiet>  
-    <https://github.com/nekotodance/WebpAnim2Mp4>  
-    <https://github.com/nekotodance/CompareViewer>  
+    <https://github.com/nekotodance/PromptViewer> SDで出力した画像をプロンプトも見ながら「片手」でフォルダ振り分け  
+    <https://github.com/nekotodance/SdImageDiet> SDで出力した画像をプロンプト情報を残したまま「GUIかつマルチスレッド」でファイルサイズを縮小  
+    <https://github.com/nekotodance/WebpAnim2Mp4> WebPアニメーションファイルをmp4に変換します（画像から簡易な動画作成も可能）  
+    <https://github.com/nekotodance/CompareViewer> ２つの画像を比較しながらプレビューするツール  
     etc...
 <!--
 **nekotodance/nekotodance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
