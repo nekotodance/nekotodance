@@ -9,8 +9,10 @@ Hi 👋, I'm nekotodance
     <https://github.com/nekotodance/SdImageDiet>  
   - WebPアニメーションファイルをmp4に変換します（画像から簡易な動画作成も可能）  
     <https://github.com/nekotodance/WebpAnim2Mp4>  
+  - 大き目のサムネイル表示で画像振り分けに特化したビューア  
+    <https://github.com/nekotodance/ThumbnailViewer>  
   - ２つの画像を比較しながらプレビューするツール  
-    <https://github.com/nekotodance/CompareViewer>  
+    <https://github.com/nekotodance/CompareViewer>
     etc...
 <!--
 **nekotodance/nekotodance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
