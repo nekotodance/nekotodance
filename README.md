@@ -3,17 +3,17 @@ Hi 👋, I'm nekotodance
 - 🌱 I’m currently learning Python  
 - 📫 How to reach me: [Twitter](https://x.com/nekotodance7/ "Twitter")
 - 😽 Repositories  
-  - SDで出力した画像をプロンプトも見ながら「片手」でフォルダ振り分け  
+  - SD出力画像をプロンプトを見ながら「片手」でフォルダ振り分け  
     <https://github.com/nekotodance/PromptViewer>  
-  - SDで出力した画像をプロンプト情報を残したまま「GUIかつマルチスレッド」でファイルサイズを縮小  
+  - SD出力画像をプロンプト情報を残したまま「マルチスレッド」でファイルサイズ縮小  
     <https://github.com/nekotodance/SdImageDiet>  
-  - 大き目のサムネイル表示で画像振り分けに特化したビューア  
+  - 画像振り分け特化のサムネイルビューア  
     <https://github.com/nekotodance/ThumbnailViewer>  
-  - WebPアニメーションファイルをmp4に変換します（画像から簡易な動画作成も可能）  
+  - WebPアニメーションファイルをmp4に変換（簡易な動画作成・結合も可能）  
     <https://github.com/nekotodance/WebpAnim2Mp4>  
-  - ２つの画像を比較しながらプレビューするツール  
+  - 画像比較ビューア  
     <https://github.com/nekotodance/CompareViewer>  
-  - 動画から特定フレーム画像を切り出すツール（制作中）  
+  - 動画から特定フレーム画像を切り出す（制作中）  
     <https://github.com/nekotodance/MovieToFrameImage>  
   - 他  
     <https://github.com/nekotodance?tab=repositories>  
