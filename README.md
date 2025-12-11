@@ -13,7 +13,7 @@ Hi 👋, I'm nekotodance
     <https://github.com/nekotodance/WebpAnim2Mp4>  
   - 画像比較ビューア  
     <https://github.com/nekotodance/CompareViewer>  
-  - 動画から特定フレーム画像を切り出す（制作中）  
+  - 動画から特定フレーム画像を切り出す 
     <https://github.com/nekotodance/MovieToFrameImage>  
   - 他  
     <https://github.com/nekotodance?tab=repositories>  
